@@ -1,4 +1,4 @@
-A Library Management System (LMS) is a software application designed to manage the various aspects of a library's operations, including the cataloging of books, tracking of loans, management of members, and handling of fines. I
+A Library Management System (LMS) is a software application designed to manage the various aspects of a library's operations, including the cataloging of books, tracking of loans, management of members, and handling of fines. 
 
 Tables and Columns
 1. Books
